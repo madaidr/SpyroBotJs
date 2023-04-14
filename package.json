@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "index.js": "^14.9.0"
+  },
+  "name": "spyrobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
